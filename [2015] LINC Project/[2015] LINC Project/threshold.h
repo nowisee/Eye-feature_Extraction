@@ -1,0 +1,1 @@
+int GetPupilThresh(IplImage* smooth_img, int frame_cnt, int* thresh_sum, bool* blink_flag);
